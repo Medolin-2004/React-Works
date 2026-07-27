@@ -112,7 +112,7 @@ http://localhost:3000
 
 **Medolin Christiyana J**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Medolin-2004
 
 ## License
 
